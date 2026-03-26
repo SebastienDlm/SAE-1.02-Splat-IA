@@ -1,5 +1,5 @@
 # Projet Universitaire - Python : SAE 1.02  
-## Projet Python 2
+## Projet Python 2 - Splat IUT'O
 
 Un projet universitaire visant à créer une IA capable de jouer à un jeu avec des choix programmés selon les situations.
 
